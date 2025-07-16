@@ -26,16 +26,14 @@ This project explores customer purchase behavior during the Diwali festival usin
 ---
 
 ## 📁 Project Structure
-
-
+```plaintext
 diwali-sales-eda/
-├── Diwali Sales Data.csv # Dataset file
-├── diwali sales data clean.ipynb # Data cleaning notebook
-├── Diwali_Sales_Analysis.ipynb # Main EDA and visual analysis
-├── README.md # Project documentation
-
-
+├── Diwali Sales Data.csv              # Dataset file
+├── diwali sales data clean.ipynb      # Data cleaning notebook
+├── Diwali_Sales_Analysis.ipynb        # Main EDA and visual analysis
+├── README.md                          # Project documentation
 ---
+```
 
 ## 📊 Key Insights
 
